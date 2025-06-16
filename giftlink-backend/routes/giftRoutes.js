@@ -1,3 +1,4 @@
+/*jshint esversion: 8 */
 const express = require('express');
 const { ObjectId } = require('mongodb');
 const connectToDatabase = require('../models/db');
